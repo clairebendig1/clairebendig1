@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clairebendig1
 - 👀 I’m interested in technical writing!
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning more about software development. 
 - 💞️ I’m looking to collaborate on projects involving accessibility for users of cognitive diversities. 
 - 📫 You can reach me at clairebendig1@gmail.com.
 
