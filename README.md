@@ -4,7 +4,7 @@ I build documentation systems that scale.
 
 Six years building technical documentation for AR/VR developer platforms, FDA-regulated medical devices, and enterprise data infrastructure. Four of those years at Meta's Reality Labs, where I:
 
-- Grew the AR documentation contributor base from **4 to 56 writers** across 25+ engineering teams
+- Grew the Meta Reality Labs Augmented Reality documentation contributor base from **4 to 56 writers** across 25+ engineering teams
 - Took site-wide documentation compliance from **0% to 91%**
 - Wrote the style guide, clarity, and template commands for **Bots4Docs** — Meta's internal AI writing assistant — then designed the workshops, wiki, and week-long docathon that scaled it company-wide
 - Authored **Meta's first accessibility writing guidelines** for developer documentation
